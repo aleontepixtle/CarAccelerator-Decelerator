@@ -1,0 +1,10 @@
+C:\Users\redwo\Desktop\Carr Class\bin\Debug\Carr Class.exe.config
+C:\Users\redwo\Desktop\Carr Class\bin\Debug\Carr Class.exe
+C:\Users\redwo\Desktop\Carr Class\bin\Debug\Carr Class.pdb
+C:\Users\redwo\Desktop\Carr Class\obj\Debug\Carr Class.csproj.AssemblyReference.cache
+C:\Users\redwo\Desktop\Carr Class\obj\Debug\Carr_Class.Form1.resources
+C:\Users\redwo\Desktop\Carr Class\obj\Debug\Carr_Class.Properties.Resources.resources
+C:\Users\redwo\Desktop\Carr Class\obj\Debug\Carr Class.csproj.GenerateResource.cache
+C:\Users\redwo\Desktop\Carr Class\obj\Debug\Carr Class.csproj.CoreCompileInputs.cache
+C:\Users\redwo\Desktop\Carr Class\obj\Debug\Carr Class.exe
+C:\Users\redwo\Desktop\Carr Class\obj\Debug\Carr Class.pdb
